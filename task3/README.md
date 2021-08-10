@@ -4,7 +4,7 @@
 
 ### The transaction hash from the console output (in text format).
 
-   0xa001b113905fe8f71a087aa6bef3db9750f1f391d8062196250f7199c36e9664
+   `0xa001b113905fe8f71a087aa6bef3db9750f1f391d8062196250f7199c36e9664`
 
 ### The contract address that you called (in text format).
 
