@@ -11,8 +11,8 @@
 
 ### Deposit output to layer 2
 
-   <img src="Deposit-ouput-to-layer2-by-account-cli.PNG">
+   <img src="Deposit-ouput-to-layer2-by-account-cli.png">
    
-### Deposit output to layer 2
+### The SUDT ID from the console output
 
    `1241`
