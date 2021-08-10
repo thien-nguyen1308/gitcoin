@@ -13,6 +13,6 @@
 
    <img src="Deposit-ouput-to-layer2-by-account-cli.png">
    
-### The SUDT ID from the console outpu
+### The SUDT ID from the console output
 
    `1241`
