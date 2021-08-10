@@ -6,11 +6,11 @@
 
    0xa001b113905fe8f71a087aa6bef3db9750f1f391d8062196250f7199c36e9664
 
-3. The contract address that you called (in text format).
+### The contract address that you called (in text format).
 
    `0x699f1446463AaD077E0C7a1D5759eEA78aD92a67`
 
-4. The ABI for contract you made a call on (in text format).
+### The ABI for contract you made a call on (in text format).
 
 ```
 [
