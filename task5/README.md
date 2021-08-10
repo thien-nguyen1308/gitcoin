@@ -7,7 +7,7 @@
 
 ### A screenshot of the console output immediately after checking your SUDT balance.
 
-   <img src="deployed-contract-output.JPG">
+   <img src="check-balance-output.JPG">
 
 ### The Ethereum address that was checked
 
